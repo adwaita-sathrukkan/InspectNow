@@ -1,0 +1,16 @@
+{
+  "eClass" : "http://com/opentext/ot2/lc/cmstype#//CMSTypeDefinition",
+  "properties" : [ {
+    "eClass" : "http://com/opentext/ot2/lc/cmstype#//CMSAttribute",
+    "name" : "college",
+    "displayName" : "college",
+    "typeName" : "Text"
+  } ],
+  "name" : "varun",
+  "id" : "b579a93f-fd74-4deb-ade2-bd78ebbb8356",
+  "cmsParent" : {
+    "ref" : "uuid:81db9003-bff9-4435-a7f2-accd90d95032",
+    "#" : "surya.cmstype"
+  },
+  "displayName" : "Varun"
+}
