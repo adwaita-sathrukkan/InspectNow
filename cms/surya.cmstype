@@ -1,0 +1,12 @@
+{
+  "eClass" : "http://com/opentext/ot2/lc/cmstype#//CMSTypeDefinition",
+  "properties" : [ {
+    "eClass" : "http://com/opentext/ot2/lc/cmstype#//CMSAttribute",
+    "name" : "name",
+    "displayName" : "Name",
+    "typeName" : "Text"
+  } ],
+  "name" : "surya",
+  "id" : "81db9003-bff9-4435-a7f2-accd90d95032",
+  "displayName" : "Surya"
+}
